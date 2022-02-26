@@ -1,0 +1,10 @@
+release/Account.o
+release/Bank.o
+release/Client.o
+release/Date.o
+release/Employee.o
+release/Facilityemployee.o
+release/Loan.o
+release/Manager.o
+release/Person.o
+release/main.o

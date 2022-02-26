@@ -1,0 +1,10 @@
+debug/Account.o
+debug/Bank.o
+debug/Client.o
+debug/Date.o
+debug/Employee.o
+debug/Facilityemployee.o
+debug/Loan.o
+debug/Manager.o
+debug/Person.o
+debug/main.o
